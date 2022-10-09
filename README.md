@@ -21,6 +21,8 @@ Performance Metric
 
 2. Mean Absolute Error
 
+Web application: https://lap-predictor.herokuapp.com/
+
 # Display
 
 <img width="850" alt="3" src="https://user-images.githubusercontent.com/107921837/194761047-fc491fcd-5d3f-468f-b7d7-098a4cf6b1ac.png">
@@ -38,4 +40,4 @@ Performance Metric
 # Predicted Price
 
 <img width="850" alt="2" src="https://user-images.githubusercontent.com/107921837/194761542-1c7b31b9-a067-4fb3-8f8c-52593c16fdb7.png">
-Web application: https://lap-predictor.herokuapp.com/
+
