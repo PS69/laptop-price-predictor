@@ -22,15 +22,20 @@ Performance Metric
 2. Mean Absolute Error
 
 # Display
-<img width="407" alt="1" src="https://user-images.githubusercontent.com/63099028/183035027-a8e3e365-7d37-4ed1-93d3-02ecd44ff668.PNG">
+
+<img width="850" alt="3" src="https://user-images.githubusercontent.com/107921837/194761047-fc491fcd-5d3f-468f-b7d7-098a4cf6b1ac.png">
+
+<img width="850" alt="3" src="https://user-images.githubusercontent.com/107921837/194761344-bd64d675-3335-49a3-b07b-773f468b7fce.png">
+
 
 
 # Results Comparision
 # Amazon Price
 
-<img width="597" alt="1" src="https://user-images.githubusercontent.com/63099028/180611808-28a90158-4f95-4199-b767-f53e584b7366.PNG">
+<img width="850" alt="1" src="https://user-images.githubusercontent.com/63099028/180611808-28a90158-4f95-4199-b767-f53e584b7366.PNG">
+
 
 # Predicted Price
 
-<img width="938" alt="2" src="https://user-images.githubusercontent.com/63099028/180611810-97d7b279-f1b0-4f62-9469-4f01b931e1f6.PNG">
+<img width="850" alt="2" src="https://user-images.githubusercontent.com/107921837/194761542-1c7b31b9-a067-4fb3-8f8c-52593c16fdb7.png">
 Web application: https://lap-predictor.herokuapp.com/
