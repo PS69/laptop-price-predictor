@@ -33,3 +33,4 @@ Performance Metric
 # Predicted Price
 
 <img width="938" alt="2" src="https://user-images.githubusercontent.com/63099028/180611810-97d7b279-f1b0-4f62-9469-4f01b931e1f6.PNG">
+Web application: https://lap-predictor.herokuapp.com/
